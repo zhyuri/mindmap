@@ -1,9 +1,0 @@
-{
-  "imports": {
-    "@monaco-editor/react": "./@monaco-editor/react.js",
-    "gojs": "./gojs.js",
-    "gojs-react": "./gojs-react.js",
-    "react": "./react.js",
-    "react-dom": "./react-dom.js"
-  }
-}
