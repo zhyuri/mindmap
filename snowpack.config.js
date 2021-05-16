@@ -17,7 +17,8 @@ module.exports = {
     /* ... */
   },
   buildOptions: {
-    /* ... */
+    /* This app is hosted on Github Pages */
+    baseUrl: '/mindmap'
   },
   optimize: {
     bundle: true,
