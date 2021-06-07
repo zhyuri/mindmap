@@ -14,6 +14,7 @@ const spotConverter = (dir: any, from: any) => {
 const initDiagram = () => {
     const $ = go.GraphObject.make;
     // set your license key here before creating the diagram: go.Diagram.licenseKey = "...";
+    go.Diagram.licenseKey = '39e944e0e6604f8200ca092315396dbc59a42a33ccd31af4045210a4e55f6c12259ee87f52d589c581fc5cec086dc68c8dc3697bc74d172b';
     const diagram =
         $(go.Diagram,
             {
